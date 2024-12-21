@@ -1,0 +1,24 @@
+End User License Agreement (EULA)
+
+Welcome to Crosscut Landscaping. By using this application, you agree to the following terms. Please read them carefully.
+
+Data Privacy:
+We take your privacy seriously. All personal data collected is kept secure and protected from unauthorized access. While we regularly check for security issues, no system is completely safe. Crosscut Landscaping cannot be held responsible for any security breaches or incidents beyond our control.
+
+Sharing the Application:
+You are not allowed to copy, share, or sell the application or any data from it without written permission from Crosscut Landscaping. Sharing login details or any data from the app without approval is prohibited.
+
+Using the App:
+You agree not to sell, share, or distribute any data from the app unless Crosscut Landscaping gives permission. Any misuse will lead to legal action.
+
+Indemnity:
+You agree to protect and hold Crosscut Landscaping harmless from any legal claims or damages caused by your use of the app. Crosscut Landscaping is not responsible for security issues like hacking, data breaches, or attacks that may happen.
+
+Security Measures:
+Crosscut Landscaping regularly checks the system for vulnerabilities and expects the same from our key vendors. We may update security practices over time as technology and security threats change.
+
+Compliance:
+The application follows industry security standards. We may change these requirements as laws and technology evolve.
+
+Acknowledgment:
+By using this application, you agree to these terms. If you don’t agree, please stop using the app.
